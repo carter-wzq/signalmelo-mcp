@@ -8,7 +8,6 @@ Analyzes Reddit discussions for a topic and returns three blocks only:
 - What Users Don't Like
 - Competitors Users Mention
 
-`unmetNeeds` is excluded by design.
 
 ## Use when
 
