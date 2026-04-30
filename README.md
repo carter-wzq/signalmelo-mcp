@@ -24,7 +24,6 @@ Required environment variables:
 - `REDDIT_CLIENT_SECRET`
 - `REDDIT_USER_AGENT`
 - `LLM_API_KEY`
-- Optional: `LLM_MODEL` (default: `gpt-4.1-mini`)
 
 ## Quick Start
 
@@ -64,7 +63,6 @@ npm run build
         "REDDIT_CLIENT_SECRET": "<YOUR_REDDIT_CLIENT_SECRET>",
         "REDDIT_USER_AGENT": "signalmelo-mcp/0.1 by your_reddit_username",
         "LLM_API_KEY": "<YOUR_LLM_API_KEY>",
-        "LLM_MODEL": "gpt-4.1-mini"
       }
     }
   }
