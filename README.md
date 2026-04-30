@@ -13,7 +13,6 @@ Output format is intentionally fixed:
 - `competitorsUsersMention`
 - `sources`
 
-`unmetNeeds` is intentionally excluded.
 
 ## BYOK
 
